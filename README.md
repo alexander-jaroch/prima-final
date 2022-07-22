@@ -1,24 +1,25 @@
 # Chess Simulator
-|          |                                  |
-| -------- | -------------------------------- |
-| Author   | Alexander Jaroch                 |
-|          | Sommersemester 2022              |
-|          | Medieninformatik B.Sc.           |
-| Semester | 8                                |
-|          | PRIMA                            |
-| Docent   | Prof. Dr. Jirka Dell'Oro-Friedl  |
+| Key         | Value                               |
+| ----------- | ----------------------------------- |
+| Autor       | Alexander Jaroch                    |
+| Semester    | Sommersemester 2022                 |
+| Studiengang | Medieninformatik B.Sc., 8. Semester |
+| Kurs        | PRIMA                               |
+| Dozent      | Prof. Dr. Jirka Dell'Oro-Friedl     |
 
 ## Links
-https://alexander-jaroch.github.io/prima-final/index.html
+[GitHub Page](https://alexander-jaroch.github.io/prima-final/index.html)
+[Design Document]()
 
-Link to the finished and executable application on Github-Pages
-Link to the design document
+## Wie funktioniert's?
+- Linke Maustaste drücken: Figur greifen
+- Linke Maustaste gedrückt, Maus bewegen: Figur bewegen
+- Linke Maustaste loslassen: Figur loslassen
 
-## How to Interact
-Text
+Kann alleine oder zu zweit gespielt werden.
 
-## Catalogue of Criteria
-| Nr | Criterion           | Explanation                                                                                                         |
+## Kriterienkatalog
+| Nr | Kriterium           | Erklärung                                                                                                           |
 | -- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1 | Units and Positions | Das Schachbrett liegt im Weltkoordinatensystem so, dass die Physik richtig wirken kann. Es liegt auf der x-z-Ebene und die Figuren stehen senkrecht dazu, also parallel zur Weltkoordinatenachse y. Die simulierte Schwerkraft wirt entgegten der y-Achse. Die lokalen Koordinaten der Figuren und des Bretts slebst stimmen mit richtungsmäßig weitesgehend mit den Weltkoordinaten überein. |
 | 2 | Hierarchy | Es gibt beim Schach-Simulator eine Gesamtszene mit dem Spielbrett, einen Graphen für das GrabTool, mit welchem die Figuren bewegt werden können, und jeweils einen Graphen für jeden Figurentyp (Bauer, Turm, Springer, Läufer, Dame, König). Die Hauptszene beinhaltet nur das Brett und das GrabTool. Die Figuren werden beim Initialisieren der GameLogic auf dem Brett platziert. Durch eine gute Hierchie, können zusammengehörende Elemente zusammen bleiben und z.B. problemlos angepasst oder wiederverwendet werden. |
