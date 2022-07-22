@@ -1,10 +1,8 @@
 # Chess Simulator
 ## Author
-Alexander Jaroch
-SoSe2022
-MIB8
+Alexander Jaroch | Medieninformatik, B.Sc. | 8. Semester
 ## Course
-PRIMA
+PRIMA SoSe-2022
 Prof. Dr. Jirka Dell'Oro-Friedl
 ## Links
 https://alexander-jaroch.github.io/prima-final/index.html
