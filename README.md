@@ -16,7 +16,7 @@
 - Linke Maustaste gedrückt, Maus bewegen: Figur bewegen
 - Linke Maustaste loslassen: Figur loslassen
 
-Kann alleine oder zu zweit gespielt werden.
+Kann alleine oder zu zweit gespielt werden (am gleichen Rechner, Regeln sollten bekannt sein).
 
 ## Kriterienkatalog
 | Nr | Kriterium           | Erklärung                                                                                                           |
