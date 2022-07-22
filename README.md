@@ -10,6 +10,8 @@ Einfacher Schachsimulator: Simulation eines Schachbretts mit dessen Figuren und 
 | Kurs         | PRIMA                           |
 | Dozent       | Prof. Dr. Jirka Dell'Oro-Friedl |
 
+![Overview](/Assets/overview.png)
+
 ## Links
 - [GitHub Page](https://alexander-jaroch.github.io/prima-final/index.html)
 - [Design Document]()
