@@ -10,8 +10,8 @@ Einfacher Schachsimulator: Simulation eines Schachbretts mit dessen Figuren und 
 | Dozent      | Prof. Dr. Jirka Dell'Oro-Friedl     |
 
 ## Links
-[GitHub Page](https://alexander-jaroch.github.io/prima-final/index.html)
-[Design Document]()
+- [GitHub Page](https://alexander-jaroch.github.io/prima-final/index.html)
+- [Design Document]()
 
 ## Wie funktioniert's?
 - Linke Maustaste drücken: Figur greifen
