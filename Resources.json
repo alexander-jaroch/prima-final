@@ -1,0 +1,57 @@
+[
+    {
+        "type": "graph",
+        "name": "Pawn",
+        "resource": "Graph|2022-07-18T08:58:02.952Z|87490"
+    },
+    {
+        "type": "graph",
+        "name": "Rook",
+        "resource": "Graph|2022-07-19T13:30:14.292Z|83769"
+    },
+    {
+        "type": "graph",
+        "name": "Knight",
+        "resource": "Graph|2022-07-19T15:40:25.990Z|68810"
+    },
+    {
+        "type": "graph",
+        "name": "Bishop",
+        "resource": "Graph|2022-07-19T15:40:33.609Z|75660"
+    },
+    {
+        "type": "graph",
+        "name": "Queen",
+        "resource": "Graph|2022-07-19T15:40:44.975Z|73091"
+    },
+    {
+        "type": "graph",
+        "name": "King",
+        "resource": "Graph|2022-07-19T15:40:51.515Z|76796"
+    },
+    {
+        "type": "material",
+        "name": "PieceLight",
+        "resource": "Material|2022-07-20T15:30:47.773Z|30701"
+    },
+    {
+        "type": "material",
+        "name": "PieceDark",
+        "resource": "Material|2022-07-20T15:30:32.183Z|91786"
+    },
+    {
+        "type": "audio",
+        "name": "Drop06",
+        "resource": "Audio|2022-07-21T07:24:24.774Z|19497"
+    },
+    {
+        "type": "audio",
+        "name": "Drop07",
+        "resource": "Audio|2022-07-21T07:25:50.528Z|55671"
+    },
+    {
+        "type": "audio",
+        "name": "Drop08",
+        "resource": "Audio|2022-07-21T09:13:59.539Z|17001"
+    }
+]

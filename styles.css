@@ -1,0 +1,92 @@
+* {
+  font-family: Tahoma;
+  line-height: 1em;
+}
+
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+dialog {
+  text-align: center;
+}
+
+canvas.fullscreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+div#ui {
+  padding: 1em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+div#ui>input {
+  background-color: white;
+}
+
+div#ui>* {
+  margin: 0;
+}
+
+div#ui>input[key=time],
+div#ui>input[key=side] {
+  outline: 0;
+  border: 0;
+  background-color: transparent;
+  cursor: default;
+  color: white;
+  font-weight: bold;
+  user-select: none;
+  pointer-events: none;
+}
+
+div#ui>button#side,
+div#ui>button#reset {
+  font-size: 2em;
+  margin-bottom: 2em;
+  border: 2px dotted white;
+  color: white;
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0.5em;
+}
+
+div#ui>button#side:hover,
+div#ui>button#reset:hover {
+  border: 2px dashed white;
+}
+
+div#ui>button#side:active,
+div#ui>button#reset:active {
+    border: 2px solid white;  
+}
+
+div#ui>input[key=time],
+div#ui>input[key=side],
+div#ui>input#colLight,
+div#ui>input#colDark {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+div#ui>input#colLight,
+div#ui>input#colDark {
+  font-family: monospace;
+  margin-top: 0.25em;
+}
+
+div#ui>button#reset {
+  margin-top: 1.5em;
+}
