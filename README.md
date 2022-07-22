@@ -1,11 +1,11 @@
 # Chess Simulator
-##Author
+## Author
 Alexander Jaroch
 SoSe2022
 MIB8
-##Course
+## Course
 PRIMA
-##Docent
+## Docent
 Prof. Dr. Jirka Dell'Oro-Friedl
 
 Link to the finished and executable application on Github-Pages
