@@ -1,13 +1,14 @@
 # Chess Simulator
 Einfacher Schachsimulator: Simulation eines Schachbretts mit dessen Figuren und Physik. Kann alleine oder zu zweit gespielt werden (am gleichen Rechner). Da es ein "Hardcore"-Simulator ist, sollten die Regeln des Schachspiels zum Spielen bekannt sein.
 
-| Key         | Value                               |
-| ----------- | ----------------------------------- |
-| Autor       | Alexander Jaroch                    |
-| Semester    | Sommersemester 2022                 |
-| Studiengang | Medieninformatik B.Sc., 8. Semester |
-| Kurs        | PRIMA                               |
-| Dozent      | Prof. Dr. Jirka Dell'Oro-Friedl     |
+| Key          | Value                           |
+| ------------ | ------------------------------- |
+| Autor        | Alexander Jaroch                |
+| Semester     | Sommersemester 2022             |
+| Studiengang  | Medieninformatik B.Sc.          |
+| Fachsemester | 8                               |
+| Kurs         | PRIMA                           |
+| Dozent       | Prof. Dr. Jirka Dell'Oro-Friedl |
 
 ## Links
 - [GitHub Page](https://alexander-jaroch.github.io/prima-final/index.html)
