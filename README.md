@@ -5,9 +5,8 @@ SoSe2022
 MIB8
 ## Course
 PRIMA
-### Docent
 Prof. Dr. Jirka Dell'Oro-Friedl
-
+##Links
 Link to the finished and executable application on Github-Pages
 Link to the source code
 Link to the design document
