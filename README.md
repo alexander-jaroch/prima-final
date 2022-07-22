@@ -20,7 +20,7 @@ Text
 ## Catalogue of Criteria
 | Nr | Criterion           | Explanation                                                                                                         |
 | -- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1  | Units and Positions | Where is 0, what is 1? Explain your setup of coordinate systems of the entities.                                    |
+| 1  | Units and Positions | Das Schachbrett liegt im Weltkoordinatensystem so, dass die Physik richtig wirken kann. Es liegt auf der x-z-Ebene und die Figuren fallen entgegen der Richtung der Weltkoordinate y. Die lokalen Koordinaten der Figuren und des Bretts slebst stimmen mit richtungsmäßig weitesgehend mit den Weltkoordinaten überein. |
 | 2  | Hierarchy 	         | Explain the setup of the graphs and the advantages you gain by it.                                                  |
 | 3  | Editor 	           | Use the visual editor and explain which parts are better done by coding and why.                                    |
 | 4  | Scriptcomponents 	 | Use scriptcomponents and explain if they were useful in your context or not and why.                                |
