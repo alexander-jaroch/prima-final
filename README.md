@@ -1,4 +1,6 @@
 # Chess Simulator
+|          |                                  |
+| -------- | -------------------------------- |
 | Author   | Alexander Jaroch                 |
 |          | Sommersemester 2022              |
 |          | Medieninformatik B.Sc.           |
@@ -17,7 +19,7 @@ Text
 
 ## Catalogue of Criteria
 | Nr | Criterion           | Explanation                                                                                                         |
-| -  | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| -- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1  | Units and Positions | Where is 0, what is 1? Explain your setup of coordinate systems of the entities.                                    |
 | 2  | Hierarchy 	         | Explain the setup of the graphs and the advantages you gain by it.                                                  |
 | 3  | Editor 	           | Use the visual editor and explain which parts are better done by coding and why.                                    |
