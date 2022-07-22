@@ -2,9 +2,9 @@
 ## Author
 Alexander Jaroch
 
-Medieninformatik, B.Sc.
+Medieninformatik B.Sc., 8. Semester
 
-8. Semester
+
 ## Course
 PRIMA SoSe-2022
 Prof. Dr. Jirka Dell'Oro-Friedl
