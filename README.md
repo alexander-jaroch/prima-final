@@ -1,6 +1,10 @@
 # Chess Simulator
 ## Author
-Alexander Jaroch\nMedieninformatik, B.Sc. | 8. Semester
+Alexander Jaroch
+
+Medieninformatik, B.Sc.
+
+8. Semester
 ## Course
 PRIMA SoSe-2022
 Prof. Dr. Jirka Dell'Oro-Friedl
