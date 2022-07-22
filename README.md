@@ -1,4 +1,6 @@
 # Chess Simulator
+Einfacher Schachsimulator: Simulation eines Schachbretts mit dessen Figuren und Physik. Kann alleine oder zu zweit gespielt werden (am gleichen Rechner). Da es ein "Hardcore"-Simulator ist, sollten die Regeln des Schachspiels zum Spielen bekannt sein.
+
 | Key         | Value                               |
 | ----------- | ----------------------------------- |
 | Autor       | Alexander Jaroch                    |
@@ -15,8 +17,6 @@
 - Linke Maustaste drücken: Figur greifen
 - Linke Maustaste gedrückt, Maus bewegen: Figur bewegen
 - Linke Maustaste loslassen: Figur loslassen
-
-Kann alleine oder zu zweit gespielt werden (am gleichen Rechner, Regeln sollten bekannt sein).
 
 ## Kriterienkatalog
 | Nr | Kriterium           | Erklärung                                                                                                           |
